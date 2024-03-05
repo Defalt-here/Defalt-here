@@ -13,7 +13,7 @@
 </div>
 <h1>Hi there! Defalt here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-<p>I am Aditya Ranjan and I love to be around computers (I am more interesting in person, trust me 🫣)</p>
+<p>I am Aditya Ranjan and I love to be around computers (I am much more interesting in person, trust me 🫣)</p>
 
 <h1>So who am I?</h1>
 <p>I am a student of engineering from India. A passionate programmer who codes for fun and loves to come up with new ideas for projects and what not!
